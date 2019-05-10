@@ -1,5 +1,5 @@
-var Host = "crawfish.aternos.org";
-var Port = 10106;
+var Host = "Grandum.aternos.me";
+var Port = 25565;
 var UserName = "testBot2";
 var mineflayer = require('mineflayer');
 var navigatePlugin = require('mineflayer-navigate')(mineflayer);

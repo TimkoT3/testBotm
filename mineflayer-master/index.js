@@ -1,6 +1,6 @@
 var Host = "crawfish.aternos.org";
 var Port = 10106;
-var UserName = "testBot";
+var UserName = "testBot2";
 var mineflayer = require('mineflayer');
 var navigatePlugin = require('mineflayer-navigate')(mineflayer);
 var blockFinderPlugin = require('mineflayer-blockfinder')(mineflayer);
